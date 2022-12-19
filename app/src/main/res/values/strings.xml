@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AplikasiPCS1705</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">LOGIN</string>
+    <string name="email">EMAIL</string>
+</resources>
